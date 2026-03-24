@@ -1,5 +1,7 @@
 # Simulación chat
 
+(G) Muy buenas tardes a todos, espero estén muy bien. Por este medio me gustaría informarles que ya está disponible el issue de las responsabilidades delegadas para el desarrollo del proyecto
+
 # Descripción
 
 ### 1. Definición del problema a resolver:
