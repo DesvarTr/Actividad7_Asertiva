@@ -9,6 +9,7 @@
 (J) Asi es, tu le asignas roles a cada integrante y haces que se mantengan activos para no perder el orden por ejemplo a mi puedes consultarme todo sobre como se ha ido desarrollando el proyecto ya que yo soy el encargado de ir tomando nota de eso, o al timekeeper preguntandole como vamos de tiempo y con respecto a cada uno vas organizando al equipo
 
 (G) Santiago, por favor podrías indicarnos que parte vamos a iniciar ahora, para definir el tiempo y que pueda llevar el control
+(S) Por supuesto compañera, la siguiente fase es definir roles para nuestro proyecto quienes van a trabajar en el sistema en este caso los usuarios, Tambien describir el flujo de uso y como ultimo paso consolidar el documento.
 # Descripción
 
 ### 1. Definición del problema a resolver:
