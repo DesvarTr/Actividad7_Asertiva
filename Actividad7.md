@@ -8,7 +8,7 @@
 
 (J) Asi es, tu le asignas roles a cada integrante y haces que se mantengan activos para no perder el orden por ejemplo a mi puedes consultarme todo sobre como se ha ido desarrollando el proyecto ya que yo soy el encargado de ir tomando nota de eso, o al timekeeper preguntandole como vamos de tiempo y con respecto a cada uno vas organizando al equipo
 
-(G) 
+(G) Santiago, por favor podrías indicarnos que parte vamos a iniciar ahora, para definir el tiempo y que pueda llevar el control
 # Descripción
 
 ### 1. Definición del problema a resolver:
