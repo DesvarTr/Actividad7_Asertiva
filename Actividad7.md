@@ -6,6 +6,7 @@
 
 (G) Eres el moderador, encargado de verificar que todo se mantenga en orden, y dirigir al equipo para que se desarrolle el proyecto.
 
+(J) Asi es, tu le asignas roles a cada integrante y haces que se mantengan activos para no perder el orden por ejemplo a mi puedes consultarme todo sobre como se ha ido desarrollando el proyecto ya que yo soy el encargado de ir tomando nota de eso, o al timekeeper preguntandole como vamos de tiempo y con respecto a cada uno vas organizando al equipo-
 # Descripción
 
 ### 1. Definición del problema a resolver:
