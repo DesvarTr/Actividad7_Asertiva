@@ -6,7 +6,9 @@
 
 (G) Eres el moderador, encargado de verificar que todo se mantenga en orden, y dirigir al equipo para que se desarrolle el proyecto.
 
-(J) Asi es, tu le asignas roles a cada integrante y haces que se mantengan activos para no perder el orden por ejemplo a mi puedes consultarme todo sobre como se ha ido desarrollando el proyecto ya que yo soy el encargado de ir tomando nota de eso, o al timekeeper preguntandole como vamos de tiempo y con respecto a cada uno vas organizando al equipo-
+(J) Asi es, tu le asignas roles a cada integrante y haces que se mantengan activos para no perder el orden por ejemplo a mi puedes consultarme todo sobre como se ha ido desarrollando el proyecto ya que yo soy el encargado de ir tomando nota de eso, o al timekeeper preguntandole como vamos de tiempo y con respecto a cada uno vas organizando al equipo
+
+(G) 
 # Descripción
 
 ### 1. Definición del problema a resolver:
@@ -21,5 +23,16 @@ Por ende se requiere un sistema sencillo que permita registrar actividades, asig
 3. **Visualización de progreso**: un tablero que muestra el porcentaje de tareas completadas, próximos vencimientos y distribución por materia/prioridad.  
 4. **Notificaciones y recordatorios**: el sistema envía alertas al telefono de el y el de sus padres para notificar las tareas próximas a vencer o atrasadas.  
 5. **Filtros y búsqueda**: permite filtrar tareas por materia, prioridad, estado o fecha.
+
+### 3. Definir roles del sistema (usuarios)
+- Administrador: Encargado del control completo de usuarios, tiene acceso a todos los módulos y puede acceder a todas las funciones
+- Moderador: Puede editar e interactuar libremente cambiando aspectos de las tareas asignadas, pero no puede editar a los usuarios
+- Usuario regular: Puede visualizar todo lo que sea agregado por el administrador, no puede editar ni intervenir en las tareas creadas
+
+### 4. Describir el flujo de uso
+El programa inicia con la creación de un espacio colaborativo, posteriormente en el será posible asignar tareas a los usuarios y darles acceso a actividades e información
+creada, que puede ser pública o privada, a decisión del administrador o moderador. Al crearse un nuevo espacio, debe de ingresar y matricularse en el mismo, hecho esto
+podrá cambiar estados de cada tarea, esto sería definir si está completa, incompleta, iniciada, parcialmente completa, o como lo considere el trabajador. Finalmente se pueden
+dividir las tareas en diferentes secciones dependiendo de la intención de cada una.
 
 # Explicación final
