@@ -1,3 +1,7 @@
+# Simulación chat
+
+# Descripción
+
 ### 1. Definición del problema a resolver:
 Los estudiantes llegan a tener dificultades a la hora de organizar múltiples tareas académicas con distitnas fechas de entrega,
 niveles de importancia o carga de trabajo.
@@ -11,3 +15,4 @@ Por ende se requiere un sistema sencillo que permita registrar actividades, asig
 4. **Notificaciones y recordatorios**: el sistema envía alertas al telefono de el y el de sus padres para notificar las tareas próximas a vencer o atrasadas.  
 5. **Filtros y búsqueda**: permite filtrar tareas por materia, prioridad, estado o fecha.
 
+# Explicación final
