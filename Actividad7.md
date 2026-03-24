@@ -49,3 +49,13 @@ dividir las tareas en diferentes secciones dependiendo de la intención de cada 
 Este modelo proporciona una base sólida para el desarrollo de una aplicación o script personalizado. Al centrarse en la visualización del progreso y la priorización, resuelve el problema de la saturación de información, permitiendo que el estudiante se enfoque en la ejecución técnica de sus proyectos.
 
 # Explicación final
+## Organización
+- EL equipo se organizó a través de issues y mensajes de chat para designar las resposabilidades y definir el plazo de las actividades
+## Gestión de la comunicación
+- La comunicación se gestionó a través de un canal libre donde todos fueron respetuosos y activos para la toma de decisiones
+## Dificultades
+- Lo más difícil fue lograr una comunicación inmediata, ya que al surgir cualquier problema inmediato, era necesario redactar un mensaje o una nota completa describiendo
+  en su totalidad lo que estaba sucediendo
+## Estrategias de resolución de problemas
+- La estrategia principal fue la actualización de comunicación, al estar los mensajes e intercambio de ideas bien organizao, era fácil actualizar la información
+  para alguien que no había estado al tanto
