@@ -6,6 +6,8 @@
 
 (G) Eres el moderador, encargado de verificar que todo se mantenga en orden, y dirigir al equipo para que se desarrolle el proyecto.
 
+(S) Esta bien, ya quedo del todo claro
+
 # Descripción
 
 ### 1. Definición del problema a resolver:
