@@ -1,7 +1,9 @@
 # Simulación chat
 
 (G) Muy buenas tardes a todos, espero estén muy bien. Por este medio me gustaría informarles que ya está disponible el issue de las responsabilidades delegadas para el desarrollo del proyecto
+
 (S) No me queda del todo claro mi papel en este proyecto
+
 (G) Eres el moderador, encargado de verificar que todo se mantenga en orden, y dirigir al equipo para que se desarrolle el proyecto.
 
 # Descripción
