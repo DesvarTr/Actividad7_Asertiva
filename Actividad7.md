@@ -46,3 +46,4 @@ podrá cambiar estados de cada tarea, esto sería definir si está completa, inc
 dividir las tareas en diferentes secciones dependiendo de la intención de cada una.
 
 # Explicación final
+Este modelo proporciona una base sólida para el desarrollo de una aplicación o script personalizado. Al centrarse en la visualización del progreso y la priorización, resuelve el problema de la saturación de información, permitiendo que el estudiante se enfoque en la ejecución técnica de sus proyectos.
