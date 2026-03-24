@@ -2,6 +2,7 @@
 
 (G) Muy buenas tardes a todos, espero estén muy bien. Por este medio me gustaría informarles que ya está disponible el issue de las responsabilidades delegadas para el desarrollo del proyecto
 
+(S) Muy buenas tardes no me queda del todo claro mi papel en este proyecto
 # Descripción
 
 ### 1. Definición del problema a resolver:
