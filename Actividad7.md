@@ -45,9 +45,10 @@ creada, que puede ser pública o privada, a decisión del administrador o modera
 podrá cambiar estados de cada tarea, esto sería definir si está completa, incompleta, iniciada, parcialmente completa, o como lo considere el trabajador. Finalmente se pueden
 dividir las tareas en diferentes secciones dependiendo de la intención de cada una.
 
-# Explicación final
+### 5.  Consolidar documento final
 Este modelo proporciona una base sólida para el desarrollo de una aplicación o script personalizado. Al centrarse en la visualización del progreso y la priorización, resuelve el problema de la saturación de información, permitiendo que el estudiante se enfoque en la ejecución técnica de sus proyectos.
 
+# Explicación final
 ## Organización
 - EL equipo se organizó a través de issues y mensajes de chat para designar las resposabilidades y definir el plazo de las actividades
 ## Gestión de la comunicación
@@ -58,4 +59,3 @@ Este modelo proporciona una base sólida para el desarrollo de una aplicación o
 ## Estrategias de resolución de problemas
 - La estrategia principal fue la actualización de comunicación, al estar los mensajes e intercambio de ideas bien organizao, era fácil actualizar la información
   para alguien que no había estado al tanto
-  
